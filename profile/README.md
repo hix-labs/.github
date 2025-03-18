@@ -1,19 +1,19 @@
 # Hix Labs  
 🚀 **Data. Science. Code.**  
 
-Bienvenidos a **Hix Labs**, una empresa de desarrollo de software enfocada en la creación de soluciones innovadoras para la transformación digital.  
+Welcome to **Hix Labs**, a software development company focused on creating innovative solutions for digital transformation.  
 
-## 🌟 Servicios  
+## 🌟 Services  
 
-- **Desarrollo de Software a Medida** → Software personalizado, integración con sistemas existentes, soluciones seguras y escalables.  
-- **Desarrollo de Aplicaciones Móviles** → Apps nativas y multiplataforma (Android/iOS), geolocalización, notificaciones en tiempo real, IA.  
-- **Desarrollo de Páginas Web y Sistemas en la Nube** → Páginas web, e-commerce, plataformas SaaS, infraestructura en la nube (AWS, Google Cloud, Azure).  
-- **Servicios TI y Consultoría** → Auditoría y seguridad informática, transformación digital, mantenimiento de infraestructura TI.  
-- **Marketing Digital y Diseño de Soluciones** → Tiendas en línea, estrategias de marketing, gestión de ventas, diseño de aplicaciones (sin desarrollo).  
+- **Custom Software Development** → Tailor-made software, system integration, secure and scalable solutions.  
+- **Mobile App Development** → Native and cross-platform apps (Android/iOS), geolocation, real-time notifications, AI.  
+- **Web Development & Cloud Solutions** → Websites, e-commerce, SaaS platforms, cloud infrastructure (AWS, Google Cloud, Azure).  
+- **IT Services & Consulting** → IT security audits, digital transformation, IT infrastructure maintenance.  
+- **Digital Marketing & Solution Design** → Online stores, marketing strategies, sales management, app design (without development).  
 
-🎯 **¿Tienes un proyecto en mente?** ¡Hablemos! 
+🎯 **Have a project in mind?** Let’s talk!  
 
-## 📞 Contacto  
-📧 **Email:** contact@hixlabs.io  
-🌐 **Sitio Web:** [https://hixlabs.io](https://hixlabs.io)  
-📌 **LinkedIn:** [Hix Labs](https://www.linkedin.com/company/hixlabs)  
+## 📞 Contact  
+📧 **Email:** contact@hixlabs.net  
+🌐 **Website:** [https://hixlabs.net](https://hixlabs.net)  
+📌 **LinkedIn:** [Hix Labs](https://www.linkedin.com/company/hixlabs)
